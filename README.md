@@ -3,25 +3,28 @@
 ### 👨‍💻 About Me / Sobre Mim
 - 🎓 **International Student** from Angola, currently studying **Computer Science at UFSJ**, Brazil.
 - 🎓 **Estudante Internacional** de Angola, cursando **Ciência da Computação na UFSJ**, Brasil.
-- 🎯 **Focus:** Aspiring Software Engineer & Data Scientist.
-- 🎯 **Foco:** Aspirante a Engenheiro de Software e Cientista de Dados.
-- 🚀 **Projects:** Working on a donation platform to support communities in Angola.
-- 🚀 **Projetos:** Desenvolvendo uma plataforma de doações para apoiar comunidades em Angola.
+- 🎯 **Career Goal:** Bridging the gap between **Software Engineering** and **Data Science** to build impactful solutions.
+- 🎯 **Objetivo:** Unir **Engenharia de Software** e **Ciência de Dados** para criar soluções de impacto.
+- 🚀 **Current Project:** Developing a donation platform to support social initiatives in Angola using Python.
+- 🚀 **Projeto Atual:** Desenvolvendo uma plataforma de doações para apoiar iniciativas sociais em Angola usando Python.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python (Data Analysis), C (Logic Foundations), JavaScript (Web Dev).
-- **Linguagens:** Python (Análise de Dados), C (Base de Lógica), JavaScript (Desenvolvimento Web).
-- **Tools:** Git, GitHub, Linux.
+### 🛠️ Tech Stack & Skills / Tecnologias e Habilidades
+- **Linguagens:** - **C:** Fundamentos de algoritmos e estrutura de dados.
+  - **Python:** Foco em análise de dados e automação.
+  - **JavaScript:** Desenvolvimento de interfaces e aplicações web.
+- **Ferramentas:** Git, GitHub, Linux, VS Code.
 
 ---
 
-### 📊 GitHub Stats / Estatísticas
+### 📈 GitHub Stats / Estatísticas
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCaetano-Analista&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCaetano-Analista&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me / Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-caetano/)
-- [Email](mailto:josejoaocaetano16@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-caetano/)
+- 📧 [Email](mailto:josejoaocaetano16@gmail.com)
+- 📍 Based in: São João del-Rei, MG, Brazil.
