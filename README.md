@@ -1,29 +1,39 @@
-# Hi, I'm Jose João Caetano! 🇦🇴🇧🇷
+# Jose João Caetano
 
-### 👨‍💻 About Me / Sobre Mim
-- 🎓 **International Student** from Angola, currently studying **Computer Science at UFSJ**, Brazil.
-- 🎓 **Estudante Internacional** de Angola, cursando **Ciência da Computação na UFSJ**, Brasil.
-- 🎯 **Career Goal:** Bridging the gap between **Software Engineering** and **Data Science**.
-- 🎯 **Objetivo:** Unir **Engenharia de Software** e **Ciência de Dados** para criar soluções de impacto.
-- 🚀 **Current Project:** Developing a donation platform to support social initiatives in Angola.
-- 🚀 **Projeto Atual:** Desenvolvendo uma plataforma de doações para apoiar iniciativas sociais em Angola.
+### Software Engineering & Data Science Student
+
+An **International Student** from Angola currently pursuing a Bachelor’s in **Computer Science** at **UFSJ** (Universidade Federal de São João del-Rei, Brazil). I am passionate about building efficient software solutions and leveraging data to solve real-world problems.
+
+**Estudante Internacional** de Angola, graduando em **Ciência da Computação** na **UFSJ**. Interessado em desenvolver software eficiente e utilizar análise de dados para resolver problemas complexos.
 
 ---
 
-### 🛠️ Tech Stack & Skills / Tecnologias e Habilidades
-- **Languages:** Python (Data Analysis), C (Logic Foundations), JavaScript (Web Dev).
-- **Linguagens:** Python (Análise de Dados), C (Base de Lógica), JavaScript (Desenvolvimento Web).
-- **Tools:** Git, GitHub, Linux, VS Code.
+### 🚀 Technical Skills | Habilidades Técnicas
+
+* **Programming Languages:** Python (Data Analysis), C (Algorithm Foundations), JavaScript.
+* **Lógica e Algoritmos:** C (Fundamentos de Algoritmos), Python (Análise de Dados), JavaScript.
+* **Tools & Technologies:** Git, GitHub, Linux Environments, VS Code.
+* **Ferramentas:** Git, GitHub, Ambientes Linux, VS Code.
 
 ---
 
-### 📊 GitHub Stats / Estatísticas
+### 📈 Projects & Impact | Projetos e Impacto
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCaetano-Analista&show_icons=true&theme=radical)
+* **Donation Platform for Angola:** A Python-based initiative designed to bridge the gap between international resources and social needs in Angola.
+* **Plataforma de Doações (Angola):** Projeto em Python para conectar recursos internacionais às necessidades sociais em Angola.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCaetano-Analista&layout=compact&theme=radical)>
+---
 
-### 📫 Connect with me / Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-caetano/)
-- 📧 [Email](mailto:josejoaocaetano16@gmail.com)
-- 📍 Based in: São João del-Rei, MG, Brazil.
+### 📊 GitHub Activity | Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JoseCaetano-Analista&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCaetano-Analista&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact & Connections | Contato
+
+* **LinkedIn:** [linkedin.com/in/jose-caetano](https://www.linkedin.com/in/jose-caetano/)
+* **Email:** [josejoaocaetano16@gmail.com](mailto:josejoaocaetano16@gmail.com)
+* **Location:** São João del-Rei, MG, Brazil.
