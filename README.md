@@ -17,11 +17,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=JoseCaetano-Analista&show_icons=true&theme=radical" alt="Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCaetano-Analista&layout=compact&theme=radical" alt="Top Langs" />
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseCaetano-Analista&show_icons=true&theme=radical" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCaetano-Analista&layout=compact&theme=radical" />
+</p>
 
 ### 📫 Connect with me / Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-caetano/)
