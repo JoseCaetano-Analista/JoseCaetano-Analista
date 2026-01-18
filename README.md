@@ -25,6 +25,6 @@
 ---
 
 ### 📫 Connect with me / Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-caetano/)
-- 📧 [Email](mailto:josejoaocaetano16@gmail.com)
+- 💼 ![LinkedIn](https://www.linkedin.com/in/jos%C3%A9-caetano/)
+- 📧 ![Email](mailto:josejoaocaetano16@gmail.com)
 - 📍 Based in: São João del-Rei, MG, Brazil.
